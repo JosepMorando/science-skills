@@ -35,7 +35,7 @@ metadata:
 
 All scripts are located in the `scripts/` subdirectory of this skill's
 installation directory. When running them, use the full absolute path to the
-script (e.g. `/path/to/gnomad_database/scripts/get_variant_frequency.py`).
+script (e.g. `/path/to/gnomad-database/scripts/get_variant_frequency.py`).
 
 **1. Variant Frequency.** Retrieves global and ancestry-specific allele
 frequencies, homozygote counts, and **Grpmax Filtering AF** (faf95/faf99) for
